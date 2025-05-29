@@ -7,7 +7,9 @@
     <Description>Tggl .NET SDK</Description>
     <TargetFrameworks>net6.0;net7.0;net8.0</TargetFrameworks>
     <PackageTags>featureflags feature flags sdk tggl</PackageTags>
-    <RepositoryUrl>https://github.com/your-repo-url</RepositoryUrl>
+        <PackageProjectUrl>https://tggl.io/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Tggl/dotnet-tggl-client</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageReadmeFile>README.md</PackageReadmeFile>
